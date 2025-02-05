@@ -15,14 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Language
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,php,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,php,js,flutter" />
+  </a>
+</p>
+
+### Framework
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,react,nextjs,laravel,jquery" />
   </a>
 </p>
 
 ### IDE
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
   </a>
